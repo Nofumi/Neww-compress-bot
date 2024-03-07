@@ -7,7 +7,7 @@ class Config(object):
     # sucks Dude
     APP_ID = 3072824  # Updated with your API ID
     API_HASH = "f9369139c29c7d7a8d6cb52baba560aa"  # Updated with your API HASH
-    LOG_CHANNEL = "-1002072009573" # Updated with your log channel ID
+    LOG_CHANNEL = "FurinaLog" # Updated with your log channel ID
     UPDATES_CHANNEL = get_config("UPDATES_CHANNEL", None) # Without `@` LOL
     # Get these values from my.telegram.org
     AUTH_USERS = {5417251065}
